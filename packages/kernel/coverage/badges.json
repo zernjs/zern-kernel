@@ -1,0 +1,7 @@
+{
+  "overall": "https://img.shields.io/badge/coverage-60%25-orange?style=for-the-badge",
+  "statements": "https://img.shields.io/badge/statements-52%25-red?style=flat-square",
+  "branches": "https://img.shields.io/badge/branches-77%25-yellow?style=flat-square",
+  "functions": "https://img.shields.io/badge/functions-60%25-orange?style=flat-square",
+  "lines": "https://img.shields.io/badge/lines-52%25-red?style=flat-square"
+}
